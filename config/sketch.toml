@@ -1,0 +1,129 @@
+name = "FillStudio Sketchbook"
+
+user="fillstudiocom"
+page = "https://fillstudiocom.notion.site/fillstudiocom/FillStudio-Sketchbook-dba703fb17e3438da4fa4cd77f099416"
+link_extension=false
+
+[site]
+  [[site.meta]]
+  name = "title"
+  content = "FillStudio Sketchbook"
+  
+  [[site.meta]]
+  name = "description"
+  content = "Condividiamo con te il nostro taccuino dei segreti."
+  
+[pages]
+  [pages.dba703fb17e3438da4fa4cd77f099416]
+	slug = "index"
+	
+  [pages.2b44a1c311744cf199ff7026c1c3579f]
+    slug = "introduzione"
+
+    [[pages.2b44a1c311744cf199ff7026c1c3579f.meta]] 
+    name = "description"
+    content = "Alcuni spunti per iniziare a pianificare la tua strategia."
+	
+	[[pages.2b44a1c311744cf199ff7026c1c3579f.meta]] 
+    name = "meta"
+    content = "Introduzione"
+
+  [pages.a84750e5585648c3a2927f2350a4d3d5]
+    slug = "cosa-inserire-sito-internet"
+
+    [[pages.a84750e5585648c3a2927f2350a4d3d5.meta]] 
+    name = "description"
+    content = "Cosa inserire in un sito Internet per renderlo realmente utile e farlo lavorare al posto nostro?"
+	
+	[[pages.a84750e5585648c3a2927f2350a4d3d5.meta]] 
+    name = "meta"
+    content = "Cosa inserire in un sito internet?"
+	
+  [pages.6766d5dc27c84202bb4101e7b9f1ec5d]
+    slug = "come-creare-sito-internet"
+
+    [[pages.6766d5dc27c84202bb4101e7b9f1ec5d.meta]] 
+    name = "description"
+    content = "Ecco gli aspetti su cui devi concentrarti per creare un sito web che lavori per te"
+	
+	[[pages.6766d5dc27c84202bb4101e7b9f1ec5d.meta]] 
+    name = "meta"
+    content = "Come creare un sito Internet?"
+	
+  [pages.51989dadf9f644bb94ead9c18190430d]
+    slug = "perche-creare-sito-internet"
+
+    [[pages.51989dadf9f644bb94ead9c18190430d.meta]] 
+    name = "description"
+    content = "Il sito deve avere uno scopo preciso, deve essere il fulcro della tua strategia di marketing. Non può essere solo una vetrina."
+	
+	[[pages.51989dadf9f644bb94ead9c18190430d.meta]] 
+    name = "meta"
+    content = "Perché un sito internet?"
+	
+  [pages.58f7fdbde3e14b07888711309a8edc99]
+    slug = "sito-internet-o-blog"
+
+    [[pages.58f7fdbde3e14b07888711309a8edc99.meta]] 
+    name = "description"
+    content = "Sito o blog? Facciamo chiarezza e scegliamo lo strumento adatto."
+	
+	[[pages.58f7fdbde3e14b07888711309a8edc99.meta]] 
+    name = "meta"
+    content = "Sito internet o blog?"
+	
+  [pages.5f26ef5757e34b7bbf3959671c494235]
+    slug = "sito-internet-o-pagina-facebook"
+
+    [[pages.5f26ef5757e34b7bbf3959671c494235.meta]] 
+    name = "description"
+    content = "Facebook è senz’altro un ottimo strumento, ma vediamo perché non dovrebbe essere l'unico."
+	
+	[[pages.5f26ef5757e34b7bbf3959671c494235.meta]] 
+    name = "meta"
+    content = "Sito internet o pagina Facebook?"
+	
+  [pages.b8090d48a7d64e2381be394f8822aee5]
+    slug = "no-code"
+
+    [[pages.b8090d48a7d64e2381be394f8822aee5.meta]] 
+    name = "description"
+    content = "Movimento No-code, lo sviluppo senza codice"
+	
+	[[pages.b8090d48a7d64e2381be394f8822aee5.meta]] 
+    name = "meta"
+    content = "No-code"
+	
+  [pages.a6d8c940f50e42fbaffab7831337174a]
+    slug = "no-code-di-che-si-tratta"
+
+    [[pages.a6d8c940f50e42fbaffab7831337174a.meta]] 
+    name = "description"
+    content = "No-code: di che si tratta? Piccola introduzione a questo approccio allo sviluppo"
+	
+	[[pages.a6d8c940f50e42fbaffab7831337174a.meta]] 
+    name = "meta"
+    content = "No-code - Cos'è?"
+	
+  [pages.99292e8366bb4cc4bebb6e9e69f99ba4]
+    slug = "no-code-per-chi"
+
+    [[pages.99292e8366bb4cc4bebb6e9e69f99ba4.meta]] 
+    name = "description"
+    content = "No-code: a chi si rivolge questo approccio allo sviluppo"
+	
+	[[pages.99292e8366bb4cc4bebb6e9e69f99ba4.meta]] 
+    name = "meta"
+    content = "No-code - per chi è?"
+	
+  [pages.42f9746c39ff41a5ac8e76bedce78e42]
+    slug = "no-code-pro-contro"
+
+    [[pages.42f9746c39ff41a5ac8e76bedce78e42.meta]] 
+    name = "description"
+    content = "No-code: vantaggi e svantaggi di questo approccio allo sviluppo"
+	
+	[[pages.42f9746c39ff41a5ac8e76bedce78e42.meta]] 
+    name = "meta"
+    content = "No-code - pro e contro?"
+
