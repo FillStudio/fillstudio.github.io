@@ -12,6 +12,10 @@ link_extension=false
   [[site.meta]]
   name = "description"
   content = "Condividiamo con te il nostro taccuino dei segreti."
+  
+  [[site.inject.head.link]]
+  rel="stylesheet"
+  href="/css/loconotion_ow.css"
 
 [pages]
   [pages.dba703fb17e3438da4fa4cd77f099416]
