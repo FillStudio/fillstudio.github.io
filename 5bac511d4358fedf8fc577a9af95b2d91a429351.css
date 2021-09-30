@@ -140,6 +140,7 @@ a[data-token-index] svg.page {
   
   /* titles */
   .notion-scroller > div:nth-child(2):not(.notion-page-content) > div:not([data-block-id]) div:not(.notion-page-details-controls) {padding-left:0 !important;padding-right:0 !important;}
+  .notion-scroller > .notion-list-view{padding-left:0 !important;padding-right:0 !important;}
 }
 
 .pseudoAfter:after {
