@@ -1,0 +1,16 @@
+@media only screen and (max-width: 960px) {
+	/* titles */
+	.notion-scroller > div:nth-child(2):not(.notion-page-content) > div:not([data-block-id]) div:not(.notion-page-details-controls) {padding-left:0 !important;padding-right:0 !important;}
+  
+	.notion-frame > .notion-scroller > div:first-child > div:nth-child(2) > div:nth-child(2) {
+		padding-right: 0 !important;
+	}
+	/*lists*/
+	.notion-scroller > .notion-list-view{padding-left:0 !important;padding-right:0 !important;}
+	.notion-scroller > div:nth-child(2):not(.notion-page-content) > div:not([data-block-id]) div:not(.notion-page-details-controls){
+		min-width: auto!important;
+	}
+	.notion-focusable > div:nth-child(2) {
+		min-width: auto !important;
+	}
+}
