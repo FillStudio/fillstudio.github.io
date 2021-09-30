@@ -133,7 +133,7 @@ link_extension=false
 
 
  [pages.8fc22bb457234bcd8510accb6d577616]
-  slug = "tools-e-strumenti"
+  slug = "approfondimenti"
 
   [[pages.8fc22bb457234bcd8510accb6d577616.meta]]
   name = "description"
@@ -141,7 +141,7 @@ link_extension=false
 
 	[[pages.8fc22bb457234bcd8510accb6d577616.meta]]
   name = "meta"
-  content = "Tools e strumenti"
+  content = "Approfondimenti"
 
 [pages.e981ab36b8dd43f1a0e17af672f7d13e]
     slug = "color-palette"
